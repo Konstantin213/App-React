@@ -6,6 +6,7 @@ const Post = props => {
     <div className={s.item}>
       <img src="https://lokeshdhakar.com/projects/lightbox2/images/image-3.jpg" />
       Message - {props.message}
+      <div>Like {props.Like} </div>
     </div>
   );
 };

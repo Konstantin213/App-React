@@ -4,20 +4,26 @@
 
 }
 
-.dialog {}
+.dialog {
+    color: white;
+}
 
 .dialogItems {
     padding: 10px;
+    color: white;
+    text-decoration: none;
+
 }
 
 .dialogItems .active {
     color: coral;
+    color: white;
+    text-decoration: none;
 }
 
 
 
 .messages {
     padding: 10px;
+    color: white;
 }
-
-.message {}
