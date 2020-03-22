@@ -30,6 +30,15 @@ const Navigation = () => {
         <NavLink to="/settings" activeClassName={s.active}>
           Settings
         </NavLink>
+        </div>
+        <div className={s.itemFriends}>
+        <NavLink to="/friends" activeClassName={s.active}>
+          Friends
+        </NavLink><div>
+          <img src = 'https://bipbap.ru/wp-content/uploads/2017/05/VOLKI-krasivye-i-ochen-umnye-zhivotnye.jpg' />
+          <img src = 'https://bipbap.ru/wp-content/uploads/2017/05/VOLKI-krasivye-i-ochen-umnye-zhivotnye.jpg' />
+          <img src = 'https://bipbap.ru/wp-content/uploads/2017/05/VOLKI-krasivye-i-ochen-umnye-zhivotnye.jpg' /></div>
+       
       </div>
     </nav>
   );
