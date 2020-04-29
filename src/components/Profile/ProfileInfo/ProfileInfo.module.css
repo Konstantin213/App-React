@@ -1,6 +1,17 @@
 .descriptionBlock {
     padding: 0 10px;
 }
+.descriptionBlock img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.jobsAvatar img {
+    width: 70px;
+    height: 70px;
+
+}
+
 
 .img {
     width: 100%;
