@@ -9,3 +9,8 @@
 {
    color: red;
 }
+.formSummeryError {
+    border: 1px red solid;
+    padding: 5px;
+    color: #991919;
+}
