@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/App-React/static/css/main.5dd5eef9.chunk.css",
+    "main.js": "/App-React/static/js/main.15dd9170.chunk.js",
+    "main.js.map": "/App-React/static/js/main.15dd9170.chunk.js.map",
+    "runtime-main.js": "/App-React/static/js/runtime-main.07626557.js",
+    "runtime-main.js.map": "/App-React/static/js/runtime-main.07626557.js.map",
+    "static/js/2.c346d37c.chunk.js": "/App-React/static/js/2.c346d37c.chunk.js",
+    "static/js/2.c346d37c.chunk.js.map": "/App-React/static/js/2.c346d37c.chunk.js.map",
+    "static/css/3.f36f7544.chunk.css": "/App-React/static/css/3.f36f7544.chunk.css",
+    "static/js/3.00adb561.chunk.js": "/App-React/static/js/3.00adb561.chunk.js",
+    "static/js/3.00adb561.chunk.js.map": "/App-React/static/js/3.00adb561.chunk.js.map",
+    "static/css/4.6206a645.chunk.css": "/App-React/static/css/4.6206a645.chunk.css",
+    "static/js/4.936a6810.chunk.js": "/App-React/static/js/4.936a6810.chunk.js",
+    "static/js/4.936a6810.chunk.js.map": "/App-React/static/js/4.936a6810.chunk.js.map",
+    "index.html": "/App-React/index.html",
+    "precache-manifest.d2090f9348ba4aecac457f82b601fd4f.js": "/App-React/precache-manifest.d2090f9348ba4aecac457f82b601fd4f.js",
+    "service-worker.js": "/App-React/service-worker.js",
+    "static/css/3.f36f7544.chunk.css.map": "/App-React/static/css/3.f36f7544.chunk.css.map",
+    "static/css/4.6206a645.chunk.css.map": "/App-React/static/css/4.6206a645.chunk.css.map",
+    "static/css/main.5dd5eef9.chunk.css.map": "/App-React/static/css/main.5dd5eef9.chunk.css.map",
+    "static/js/2.c346d37c.chunk.js.LICENSE.txt": "/App-React/static/js/2.c346d37c.chunk.js.LICENSE.txt",
+    "static/media/preloader.svg": "/App-React/static/media/preloader.ee773c8f.svg",
+    "static/media/user.jpg": "/App-React/static/media/user.42ecc387.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07626557.js",
+    "static/js/2.c346d37c.chunk.js",
+    "static/css/main.5dd5eef9.chunk.css",
+    "static/js/main.15dd9170.chunk.js"
+  ]
+}
