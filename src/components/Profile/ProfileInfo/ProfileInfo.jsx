@@ -1,7 +1,6 @@
 import React from "react";
 import s from "./ProfileInfo.module.css";
 import Preloader from "../../common/Preloader/Preloader";
-import ProfileStatus from "./ProfileStatus"
 import profileAvatarDefault from "./../../../assets/img/user.jpg";
 import ProfileStatusWithHook from "./ProfileStatusWithHook";
 
@@ -24,7 +23,7 @@ const ProfileInfo = (props) => {
                 : <img
                     src='https://steamuserimages-a.akamaihd.net/ugc/45369364728288691/B2919D4F23079C75AC10D1ECA585490A0A7FA962/'/>}
             </div>
-            <div>lookingForAJobDescription : {props.profile.lookingForAJobDescription}</div>
+            <div>Looking For A Job Description : {props.profile.lookingForAJobDescription}</div>
         </div>
     );
 };
